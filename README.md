@@ -79,7 +79,7 @@ Semester Credits = total credits of that semester
 
 🖼️ Screenshots 
 
-![Preview](CGPA.png)
+![Preview](CGPA.PNG)
 
 
 🤝 Contributing
